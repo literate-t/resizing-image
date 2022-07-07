@@ -1,0 +1,5 @@
+**/.vscode
+**/node_modules
+**/.eslintrc.js
+**/tailwind.config.js
+**/.env
